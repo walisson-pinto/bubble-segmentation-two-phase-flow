@@ -13,7 +13,7 @@ This work proposes a deep learning-based approach for accurate segmentation of g
 ## Project Structure
 
 - `src/` – Training and inference scripts  
-- `models/` – Pretrained model weights  
+- `model/` – Pretrained model weights  
 - `data/` – Sample frames and masks  
 
 ---
