@@ -16,8 +16,3 @@ This work proposes a deep learning-based approach for accurate segmentation of g
 - `model/` – Pretrained model weights  
 - `data/` – Sample frames and masks  
 
----
-
-
-## Run inference
-python src/inference.py --input data/sample_input/frame_001.png --output results/
