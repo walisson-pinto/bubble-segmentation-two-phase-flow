@@ -47,14 +47,11 @@ author = {Leonardo S. {Fernandes}, Fabio J. W. A. Martins, Luis F. A. Azevedo }
 }
 
 
-@article{DEOLIVEIRA201518,
-	title = {Bubble characterization in horizontal air–water intermittent flow},
-	journal = {International Journal of Multiphase Flow},
-	volume = {69},
-	pages = {18-30},
-	year = {2015},
-	issn = {0301-9322},
-	doi = {https://doi.org/10.1016/j.ijmultiphaseflow.2014.10.014},
-	url = {https://www.sciencedirect.com/science/article/pii/S030193221400202X},
-	author = {W.R. {de Oliveira}, I.B. {de Paula}, F.J.W.A. Martins, P.S.C. Farias, L.F.A. Azevedo}
-}
+W.R. de Oliveira, I.B. de Paula, F.J.W.A. Martins, P.S.C. Farias, L.F.A. Azevedo,
+Bubble characterization in horizontal air–water intermittent flow,
+International Journal of Multiphase Flow,
+Volume 69,
+2015,
+Pages 18-30,
+ISSN 0301-9322,
+https://doi.org/10.1016/j.ijmultiphaseflow.2014.10.014.
