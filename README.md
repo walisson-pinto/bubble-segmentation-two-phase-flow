@@ -17,7 +17,7 @@ This work proposes a deep learning-based approach for accurate segmentation of g
 - `data/` – Original images and masks  
 
 
-## Project Structure
+## Citation
 The dataset used in this work is gathered from different works developed in the Fluid Engineering Laboratory at PUC-Rio
 
 If you use this data in your work, please cite the following articles:
